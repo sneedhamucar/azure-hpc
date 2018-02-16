@@ -54,7 +54,8 @@
         "none",
         "P10",
         "P20",
-        "P30"
+        "P30",
+	"P50"
       ],
       "metadata": {
         "description": "Premium storage disk size to attach"
